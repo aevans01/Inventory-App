@@ -7,7 +7,7 @@ This project came about because the job I was at needed something like this for 
 
 ### Built With
 
-* [Java]
+* Java
 * [MySQL](https://www.mysql.com/)
 * [Phpmyadmin](https://www.phpmyadmin.net/)
 * [NetBeans](https://netbeans.apache.org/)
