@@ -19,8 +19,8 @@ import javax.swing.JOptionPane;
  */
 public class DBstuff {
 
-    String user = "Austin";
-    String pass = "Eliza2018";
+    String user = "";
+    String pass = "";
     String url = "jdbc:mysql://172.28.215.131:3306/login";
 
     public ArrayList browse() {
